@@ -14,20 +14,19 @@
 * [Regression and spatial regression](module-2-spatial-statistics/regression-and-spatial-regression.md)
 * [Interpolation](module-2-spatial-statistics/interpolation.md)
 
-## Module 3 Spatial algirithm
+## Module 3 Hydrology analysis
 
-* [Network analysis](module-3-spatial-algirithm/network-analysis.md)
-* [AM/FM GIS](module-3-spatial-algirithm/am-fm-gis.md)
-* [revisit hydrology analysis](module-3-spatial-algirithm/revisit-hydrology-analysis.md)
+* [revisit hydrology analysis](module-3-hydrology-analysis/revisit-hydrology-analysis.md)
+* [Page](module-3-hydrology-analysis/page.md)
 
-## Module 4 Hydrology analysis
+## Module 4 Network Analysis
 
-* [Hydrology analysis](module-4-hydrology-analysis/hydrology-analysis.md)
-* [Page](module-4-hydrology-analysis/page.md)
+* [Network analysis](module-4-network-analysis/network-analysis.md)
+* [AM/FM GIS](module-4-network-analysis/am-fm-gis.md)
 
 ## Module 4 Network analysis
 
-* [Page 1](module-4-network-analysis/page-1.md)
+* [Page 1](module-4-network-analysis-1/page-1.md)
 
 ## MOdule 5 Web Mapping
 
