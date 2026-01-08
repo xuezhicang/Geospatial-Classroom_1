@@ -24,9 +24,9 @@
 * [Hydrology analysis](module-3-spatial-anlysis/hydrology-analysis.md)
 * [Network anlaysis](module-3-spatial-anlysis/network-anlaysis.md)
 
-## Module 4&#x20;
+## Module 4  Interpolation
 
-* [Interpolation](module-4/interpolation.md)
+* [Interpolation](module-4-interpolation/interpolation.md)
 
 ## MODULE 5 Web GIS
 
