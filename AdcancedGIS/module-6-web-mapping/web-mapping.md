@@ -8,9 +8,9 @@
 
 
 
-## Web Server&#x20;
+## GeoNode
 
 
 
-## Leaflet (Browser)
+## Leaflet
 

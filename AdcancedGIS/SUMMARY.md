@@ -24,13 +24,9 @@
 * [Network analysis](module-4-network-analysis/network-analysis.md)
 * [AM/FM GIS](module-4-network-analysis/am-fm-gis.md)
 
-## Module 4 Network analysis
+## MOdule 5 Spatial Interaction
 
-* [Page 1](module-4-network-analysis-1/page-1.md)
-
-## MOdule 5 Web Mapping
-
-* [Page 2](module-5-web-mapping/page-2.md)
+* [Spatial intersection](module-5-spatial-interaction/spatial-intersection.md)
 
 ## Module 6 Web mapping
 
