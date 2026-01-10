@@ -4,35 +4,34 @@
 
 ## Module 1 Refresh key foundational knowledge
 
-* [revisit: Map projections](module-1-refresh-key-foundational-knowledge/revisit-map-projections.md)
-* [Raster and Vector Conversion](module-1-refresh-key-foundational-knowledge/raster-and-vector-conversion.md)
-* [Spatial Index and HashMap](module-1-refresh-key-foundational-knowledge/spatial-index-and-hashmap.md)
+* [1.1 Revisit: Map projections](module-1-refresh-key-foundational-knowledge/1.1-revisit-map-projections.md)
+* [1.2 Raster and Vector Conversion](module-1-refresh-key-foundational-knowledge/1.2-raster-and-vector-conversion.md)
+* [1.3 Spatial Index and HashMap](module-1-refresh-key-foundational-knowledge/1.3-spatial-index-and-hashmap.md)
 
 ## Module 2 Spatial Statistics
 
-* [Spatial Autocorelate](module-2-spatial-statistics/spatial-autocorelate.md)
-* [Regression and spatial regression](module-2-spatial-statistics/regression-and-spatial-regression.md)
-* [Interpolation](module-2-spatial-statistics/interpolation.md)
+* [2.1 Spatial Autocorrelation](module-2-spatial-statistics/2.1-spatial-autocorrelation.md)
+* [2.2 Regression and Spatial Regression](module-2-spatial-statistics/2.2-regression-and-spatial-regression.md)
+* [2.3 Interpolation](module-2-spatial-statistics/2.3-interpolation.md)
 
 ## Module 3 Hydrology analysis
 
-* [revisit hydrology analysis](module-3-hydrology-analysis/revisit-hydrology-analysis.md)
-* [Page](module-3-hydrology-analysis/page.md)
+* [3.1 Revisit: Hydrology Analysis](module-3-hydrology-analysis/3.1-revisit-hydrology-analysis.md)
 
 ## Module 4 Network Analysis
 
-* [Network analysis](module-4-network-analysis/network-analysis.md)
-* [AM/FM GIS](module-4-network-analysis/am-fm-gis.md)
+* [4.1 Network Analysis](module-4-network-analysis/4.1-network-analysis.md)
+* [4.2 AM/FM GIS](module-4-network-analysis/4.2-am-fm-gis.md)
 
 ## MOdule 5 Spatial Interaction
 
-* [Spatial intersection](module-5-spatial-interaction/spatial-intersection.md)
+* [5.1 ial Intersection](module-5-spatial-interaction/5.1-ial-intersection.md)
 
 ## Module 6 Web mapping
 
-* [Web mapping](module-6-web-mapping/web-mapping.md)
+* [6.1 Web Mapping](module-6-web-mapping/6.1-web-mapping.md)
 
 ## Module 7 GeoAI
 
-* [Graph Neural Network](module-7-geoai/graph-neural-network.md)
-* [Fine-Tuning LLMs](module-7-geoai/fine-tuning-llms.md)
+* [7.1 Graph Neural Network](module-7-geoai/7.1-graph-neural-network.md)
+* [7.2 Fine-Tuning LLMs](module-7-geoai/7.2-fine-tuning-llms.md)
