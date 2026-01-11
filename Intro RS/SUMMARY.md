@@ -2,10 +2,12 @@
 
 * [Schedule](README.md)
 
-## Module 1 Fundamentals of Digital Image Processing
+## Module 1 Fundamentals of Remote Sensing
 
-* [EM radiation and RS basics](module-1-fundamentals-of-digital-image-processing/em-radiation-and-rs-basics.md)
-* [Page](module-1-fundamentals-of-digital-image-processing/page.md)
+* [Fundamentals of Remote Sensing](module-1-fundamentals-of-remote-sensing/fundamentals-of-remote-sensing.md)
+* [Components of a RS System](module-1-fundamentals-of-remote-sensing/components-of-a-rs-system.md)
+* [EM radiation and RS basics](module-1-fundamentals-of-remote-sensing/em-radiation-and-rs-basics.md)
+* [Page](module-1-fundamentals-of-remote-sensing/page.md)
 
 ## Module 2 Sensors and Platforms
 
