@@ -29,5 +29,5 @@
 
 * [4.1 Vector Operation](module-4-python-applications-in-gis-and-rs/4.1-vector-operation.md)
 * [4.2 Raster operation](module-4-python-applications-in-gis-and-rs/4.2-raster-operation.md)
-* [4.3 Visualization](module-4-python-applications-in-gis-and-rs/4.3-visualization.md)
+* [4.3 Geospatial Visualization](module-4-python-applications-in-gis-and-rs/4.3-geospatial-visualization.md)
 * [4.4 Google Earth Engine](module-4-python-applications-in-gis-and-rs/4.4-google-earth-engine.md)
