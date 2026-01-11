@@ -20,11 +20,10 @@
 ## Module 3: Python Applications
 
 * [3.1 Numpy and pandas geopandas](module-3-python-applications/3.1-numpy-and-pandas-geopandas.md)
-* [3.2 rastio, and gdal Pillow (PIL) OpenCV](module-3-python-applications/3.2-rastio-and-gdal-pillow-pil-opencv.md)
+* [3.2  GDAL, Rastio, Pillow (PIL), and OpenCV](module-3-python-applications/3.2-gdal-rastio-pillow-pil-and-opencv.md)
 * [3.3 SciPy and Scikit-learn](module-3-python-applications/3.3-scipy-and-scikit-learn.md)
-* [3.4 Visualization](module-3-python-applications/3.4-visualization.md)
-* [3.5 Vectorization in Python](module-3-python-applications/3.5-vectorization-in-python.md)
-* [3.6 Matplotlib, Seaborn and Scikit-learn](module-3-python-applications/3.6-matplotlib-seaborn-and-scikit-learn.md)
+* [3.4 Vectorization in Python](module-3-python-applications/3.4-vectorization-in-python.md)
+* [3.5 Matplotlib and Seaborn](module-3-python-applications/3.5-matplotlib-and-seaborn.md)
 
 ## Module 4 Python Applications in GIS and RS
 
