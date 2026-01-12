@@ -1,26 +1,28 @@
 # Supervised classification
 
-#### &#x20;**Parallelepiped Classifier**
+## &#x20;Parallelepiped Classifier
 
 
 
-#### **Minimum Distance to Mean**
+## Minimum Distance to Mean
 
 
 
-#### **Maximum Likelihood Classification (MLC)**
+## Maximum Likelihood Classification (MLC)
 
 
 
-#### **Mahalanobis Distance**
 
 
 
-#### **Support Vector Machine (SVM)**
+
+## Support Vector Machine (SVM)
 
 
 
-#### **Decision Tree**
+## Decision Tree
 
-####
+
+
+### Confusion Matrix
 
