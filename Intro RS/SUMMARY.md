@@ -15,13 +15,17 @@
 
 ## Module 3 Digital Images
 
-* [Page 4](module-3-digital-images/page-4.md)
+* [Image Preprocessing](module-3-digital-images/image-preprocessing.md)
+* [Image Enhancement](module-3-digital-images/image-enhancement.md)
+* [Spatial Filtering and Image Transformation](module-3-digital-images/spatial-filtering-and-image-transformation.md)
+* [Spectral Processing](module-3-digital-images/spectral-processing.md)
 
 ## Module 4 Image Classification and Change Detection
 
-* [Page 3](module-4-image-classification-and-change-detection/page-3.md)
-* [Page 5](module-4-image-classification-and-change-detection/page-5.md)
-* [Page 7](module-4-image-classification-and-change-detection/page-7.md)
+* [Unsupervised classification](module-4-image-classification-and-change-detection/unsupervised-classification.md)
+* [Supervised classification](module-4-image-classification-and-change-detection/supervised-classification.md)
+* [Object-based image analysis (intro)](module-4-image-classification-and-change-detection/object-based-image-analysis-intro.md)
+* [Pixel-based classification](module-4-image-classification-and-change-detection/pixel-based-classification.md)
 
 ## Module 5 Advanced RS methods
 
