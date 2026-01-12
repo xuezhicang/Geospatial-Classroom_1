@@ -1,13 +1,31 @@
 # Spectral Processing
 
-## Band arithmetic (addition, subtraction, ratio)
+## Band arithmetic&#x20;
 
-## Band combinations (true color, false color)
+### addition
 
-## Spectral indices (NDVI, NDWI – concept)
+### subtraction
 
-## Spectral signatures
+### ratio
+
+
+
+## Band combinations&#x20;
+
+### true color
+
+### false color
+
+
+
+## Spectral indices&#x20;
+
+### NDVI
+
+### NDWI&#x20;
+
+##
 
 ## Principal Component Analysis (PCA)
 
-## Multiband analysis
+##

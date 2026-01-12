@@ -1,12 +1,28 @@
 # Spatial Filtering and Image Transformation
 
-## Convolution operation (kernel / moving window)
+## Convolution operation&#x20;
 
-## Low-pass filtering (smoothing, noise reduction)
+### kernel&#x20;
 
-## High-pass filtering (sharpening)
+## Low-pass filtering&#x20;
 
-## Edge detection (Sobel, Prewitt, Laplacian – concept)
+### smoothing
 
-## Image sharpening
+### noise reduction
+
+
+
+## High-pass filtering&#x20;
+
+
+
+## Edge detection&#x20;
+
+### Sobel
+
+### Laplacian&#x20;
+
+##
+
+##
 
