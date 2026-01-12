@@ -6,11 +6,11 @@
 
 * [Fundamentals of Remote Sensing](module-1-fundamentals-of-remote-sensing/fundamentals-of-remote-sensing.md)
 * [Components of a RS System](module-1-fundamentals-of-remote-sensing/components-of-a-rs-system.md)
-* [EM radiation and RS basics](module-1-fundamentals-of-remote-sensing/em-radiation-and-rs-basics.md)
+* [EM radiation and RS Basics](module-1-fundamentals-of-remote-sensing/em-radiation-and-rs-basics.md)
 
 ## Module 2 Sensors and Platforms
 
-* [Spatial, Spectral, Temporal & Radiometric](module-2-sensors-and-platforms/spatial-spectral-temporal-and-radiometric.md)
+* [Spatial, Spectral, Temporal & Radiometric Resolution](module-2-sensors-and-platforms/spatial-spectral-temporal-and-radiometric-resolution.md)
 * [Major Earth Observation Satellites](module-2-sensors-and-platforms/major-earth-observation-satellites.md)
 
 ## Module 3 Digital Images
@@ -24,7 +24,7 @@
 
 * [Unsupervised classification](module-4-image-classification-and-change-detection/unsupervised-classification.md)
 * [Supervised classification](module-4-image-classification-and-change-detection/supervised-classification.md)
-* [Object-based image analysis (intro)](module-4-image-classification-and-change-detection/object-based-image-analysis-intro.md)
+* [Object-based image analysis](module-4-image-classification-and-change-detection/object-based-image-analysis.md)
 * [Pixel-based classification](module-4-image-classification-and-change-detection/pixel-based-classification.md)
 
 ## Module 5 Advanced RS methods
